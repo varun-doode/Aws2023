@@ -1,0 +1,100 @@
+    1  clear
+    2  sudo su -
+    3  git init
+    4  ls -a
+    5  cat /etc/os-re;ease
+    6  cat /etc/os-release
+    7  git status
+    8  cit commit
+    9  git -version
+   10  git status
+   11  clear
+   12  apt install updates
+   13  sudo apt install updates
+   14  git -version
+   15  sudo apt install git
+   16  git -version
+   17  git --version
+   18  git status
+   19  git add --all
+   20  git status
+   21  git commit -m "second commint
+   22  git commit -m "second commint"
+   23  git commit -m "second commit"
+   24  git status
+   25  git push origin master
+   26  git init
+   27  git clone https://github.com/varun-doode/Aws2023.git
+   28  git remote add origin https://github.com/varun-doode/Aws2023.git
+   29  git status
+   30  git commit -m "third"
+   31  clear
+   32  ls
+   33  cd Aws2023
+   34  ls
+   35  cat README.md 
+   36  Sudo su -
+   37  cd .
+   38  cd ..
+   39  Sudo su -
+   40  sudo su -
+   41  clear
+   42  sudo su -
+   43  git status
+   44  sudo su -
+   45  ls
+   46  cd Aws2023/
+   47  ls
+   48  cd ..
+   49  touch one two three
+   50  mkdir four fivr six
+   51  git status
+   52  git init
+   53  git add .
+   54  git add --all
+   55  git status
+   56  git commit -m "first commit"
+   57  git remote add origin https://github.com/varun-doode/aws2024.git 
+   58  git push -u origin master
+   59  git remote add origin https://github.com/varun-doode/Aws2023.git
+   60  git push -u origin master
+   61  git remote add origin https://github.com/varun-doode/Aws2023.git
+   62  git push -u origin master
+   63  git status
+   64  clear
+   65  ls
+   66  clear
+   67  sudo su -
+   68  cd
+   69  ls
+   70  git status
+   71  git init
+   72  git add --all
+   73  git status
+   74  git commit -m "thrid commit"
+   75  git remote add origin https://github.com/varun-doode/Aws2023.git
+   76  git push -u origin master 
+   77  clear
+   78  ls
+   79  history
+   80  git log
+   81  git log commit if
+   82  git log commit id
+   83  git tag
+   84  clear
+   85  git tag -tagone
+   86  git tag
+   87  git tag "v1.0"
+   88  git tag
+   89  git push origin v1.0
+   90  touch f1 f2 f3
+   91  git init
+   92  git add .
+   93  git status
+   94  git commit -m "tag trail"
+   95  git push -u origin master
+   96  git tag r1.0
+   97  git tag
+   98  git push origin r1.0
+   99  cat f1
+  100  history > f1
